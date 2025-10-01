@@ -14,10 +14,10 @@ class Globo
     y+=vy;
     x+=vx;
   }
-// pablo a pabla // 
+  
   void dibujate()
   {
-      ellipse(x,y,50,50);
+      ellipse(x,y,10,10);
       image(cara,x-25,y-25,50,50);
   }
   
