@@ -14,7 +14,7 @@ class Globo
     y+=vy;
     x+=vx;
   }
-
+//yeison gei
   void dibujate()
   {
       ellipse(x,y,50,50);
